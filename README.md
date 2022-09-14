@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fortuneagu
-- 👀 I’m interested in iOS mobile development 
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me agufortune@gmail.com / @fortuneagu on all social platforms. 
+Hi, I'm Fortune Agu and I am currently a java developer
+I work in the backend dev team in a financial institution
+
+Have some history with iOS mobile developement using swift
 
 <!---
 fortuneagu/fortuneagu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
