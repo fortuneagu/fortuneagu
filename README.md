@@ -1,5 +1,5 @@
 - Hi, I'm Fortune Agu and I am currently a java developer
-- I work in the backend dev team in a financial institution
+- I work with the backend dev team in a financial institution
 
 - Have some history with iOS mobile developement using swift
 
